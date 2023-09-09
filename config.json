@@ -1,8 +1,7 @@
 {
   "token": "",
   "prefix": "Seu prefixo",
-  "genChannel": "1142545034407858186",
-  "genChannel": "1139525478764519434",
+  "genChannel": "",
   "genCooldown": "600",
   "color": {
     "green": "0x57F287",
